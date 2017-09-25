@@ -1,2 +1,2 @@
-# tankpocalypse
+# Tankpocalypse
 Capstone Project
