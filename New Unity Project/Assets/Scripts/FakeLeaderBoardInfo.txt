@@ -1,0 +1,15 @@
+1
+Jacob
+355
+2
+Harman
+300
+3
+Dan
+290
+4
+Kevin
+250
+5
+Tuyen
+248
