@@ -17,8 +17,7 @@ public class LeaderBoard : MonoBehaviour {
     {
         Debug.Log("Checking Table 2");
 
-        string str = "Jacob Kurian";
-        str += "\n" + "mad";
+
 
 
 

@@ -81,6 +81,7 @@
      <Compile Include="Assets\Scripts\CheckPassConfirm.cs" />
      <Compile Include="Assets\Scripts\CSharpScript.cs" />
      <Compile Include="Assets\Scripts\EmailValidity.cs" />
+     <Compile Include="Assets\Scripts\GameOverScript\PopulateScoreBoard.cs" />
      <Compile Include="Assets\Scripts\GameScript\drive.cs" />
      <Compile Include="Assets\Scripts\GameScript\MobileButtonEnability.cs" />
      <Compile Include="Assets\Scripts\GetLoginInfo.cs" />
@@ -119,6 +120,7 @@
      <None Include="Assets\Standard Assets\ParticleSystems\Shaders\PriorityParticleAddSoft.shader" />
      <None Include="Assets\Standard Assets\Effects\ToonShading\Shaders\ToonLitOutline.shader" />
      <None Include="Assets\Standard Assets\Effects\ToonShading\Shaders\ToonLit.shader" />
+     <None Include="Assets\Scripts\GameOverScript\FakeScoreBoardInfo.txt" />
      <None Include="Assets\Standard Assets\Effects\Projectors\Shaders\ProjectorLight.shader" />
      <None Include="Assets\Standard Assets\Environment\Water\Water\Shaders\FXWaterPro.shader" />
      <None Include="Assets\Standard Assets\Vehicles\Car\CarGuidelines.txt" />
